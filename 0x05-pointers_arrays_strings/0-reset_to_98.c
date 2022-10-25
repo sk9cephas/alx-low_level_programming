@@ -1,4 +1,4 @@
-#include "main.h"
+#include "folder/file.h"
 
 /**
  * reset_to_98 - update the value n to 98
