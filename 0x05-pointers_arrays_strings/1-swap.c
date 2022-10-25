@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * sawp_int - swap two integer
+ * swap_in - swap two integer
  * @a: first pointer
  * @b:second pointer
  * Return: void
